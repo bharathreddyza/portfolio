@@ -18,6 +18,8 @@ const About: NextComponentType = () => {
           i like Building  apps that scale, proficient in javascript <br /> 
            this site is under construction  🛠️
         </p>
+        <Link  href="https://drive.google.com/file/d/1LyJBj95OP2lmMvWH9J59HJMsc36cmzTT/view"> 
+       <p className="text-xl mt-4 text-gray-200 underline hover:cursor-pointer">Resume</p></Link>
  
       </div>
 
