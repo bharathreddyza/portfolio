@@ -5,9 +5,9 @@ import {
   MdEmail,
   AiOutlineGithub,
   AiOutlineTwitter,
+  AiFillLinkedin
 } from "../Misc/Icons.collection";
-
-import { Icon } from "../Misc/Icon.component";
+ import { Icon } from "../Misc/Icon.component";
 
 const Contact: NextComponentType = () => {
   return (
@@ -21,10 +21,10 @@ const Contact: NextComponentType = () => {
           icon={<AiOutlineTwitter />}
           url="https://twitter.com/bharathza"
         />
+<Icon icon={<AiFillLinkedin />} url="https://www.linkedin.com/in/bharathreddy2/" />
 
-        <Icon icon={<MdEmail />} url="mailto:bharathreddyza@gmail.com" />
+<Icon icon={<MdEmail />} url="mailto:bharathreddyza@gmail.com" />
 
-        
       </div>
     </div>
   );
