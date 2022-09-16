@@ -4,6 +4,7 @@ import Link from "next/link";
 import { VscGithubAlt } from "../Misc/Icons.collection";
 
 import type { linkProps } from "../../@types/prop.types";
+import pdf from '../../public/assests/bharath_reddy_CV.pdf'
 
 const TextLink: NextComponentType<NextPageContext, {}, linkProps> = ({
   text,
@@ -29,7 +30,11 @@ const Header: NextComponentType = () => {
         <TextLink text="Skills" url="#skills" />
         <TextLink text="Projects" url="#projects" />
         <TextLink text="Contact" url="#contact" />
+        <TextLink text="Resume" url="https://drive.google.com/file/d/1LyJBj95OP2lmMvWH9J59HJMsc36cmzTT/view" />
+
       </p>
+     
+      
 
       <Link href="https://github.com/bharathreddyza" passHref>
         <a
