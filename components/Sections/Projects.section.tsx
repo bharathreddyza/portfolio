@@ -14,7 +14,7 @@ const Projects: NextComponentType = () => {
             rel="noopener noreferrer"
           >
             <div className="flex h-full w-full flex-col items-center justify-center rounded-lg bg-primary px-2 text-center font-medium">
-              <p className="text-xl font-semibold">daohunt</p>
+              <p className="text-xl font-semibold">Daohunt <p className="text-sm ">[EthGlobal daoHack top15]</p></p>
               <p>Decentralised Dao analytics and review site built  IPFS and orbitDB</p>
             </div>
           </a>
@@ -45,7 +45,7 @@ const Projects: NextComponentType = () => {
             </div>
           </a>
         </Link>
-        <Link href="https://github.com/bharathreddyza/quick-feature" passHref>
+        <Link href="https://github.com/bharathreddyza/reddit" passHref>
           <a
             className="h-[10rem] w-[18rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#FDE68A] via-[#FCA5A5] to-[#FECACA] p-1 text-white duration-100 hover:scale-105"
             target="_blank"
@@ -53,7 +53,7 @@ const Projects: NextComponentType = () => {
           >
             <div className="flex h-full w-full flex-col items-center justify-center rounded-lg bg-primary px-2 text-center font-medium">
               <p className="text-xl font-semibold"> reddit clone</p>
-              <p>A Fullstack reddit clone built using Typescript,Next.js,graphQL,postgres</p>
+              <p>A Fullstack Reddit clone built using Typescript,Next.js,graphQL,postgres</p>
             </div>
           </a>
         </Link>
