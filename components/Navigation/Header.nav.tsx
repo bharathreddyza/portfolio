@@ -4,8 +4,7 @@ import Link from "next/link";
 import { VscGithubAlt } from "../Misc/Icons.collection";
 
 import type { linkProps } from "../../@types/prop.types";
-import pdf from '../../public/assests/bharath_reddy_CV.pdf'
-
+ 
 const TextLink: NextComponentType<NextPageContext, {}, linkProps> = ({
   text,
   url,
