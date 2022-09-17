@@ -32,7 +32,7 @@ const Projects: NextComponentType = () => {
           </a>
         </Link>
         
-        <Link href="https://github.com/bharathreddyza/DAOHunt" passHref>
+        <Link href="https://daohunt-frontend.vercel.app/" passHref>
           <a
             className="h-[10rem] w-[18rem]  cursor-pointer rounded-lg bg-gradient-to-r from-[#D8B4FE] to-[#818CF8] p-1 text-white duration-100 hover:scale-105"
             target="_blank"
@@ -45,7 +45,7 @@ const Projects: NextComponentType = () => {
           </a>
         </Link>
 
-        <Link href="https://github.com/bharathreddyza/decentralizedVideoPlayer" passHref>
+        {/* <Link href="https://github.com/bharathreddyza/decentralizedVideoPlayer" passHref>
           <a
             className="h-[10rem] w-[18rem]  cursor-pointer rounded-lg bg-gradient-to-r from-[#FDE68A] via-[#FCA5A5] to-[#FECACA] p-1 text-white duration-100 hover:scale-105"
             target="_blank"
@@ -56,7 +56,7 @@ const Projects: NextComponentType = () => {
               <p>A decentalised video player built upon IPFS and Next.js</p>
             </div>
           </a>
-        </Link>
+        </Link> */}
 
        
 
