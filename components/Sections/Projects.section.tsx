@@ -33,7 +33,7 @@ const Projects: NextComponentType = () => {
           </a>
         </Link>
 
-        <Link href="https://github.com/bharathreddyza/quick-feature" passHref>
+        <Link href="https://quick-feature.vercel.app/" passHref>
           <a
             className="h-[10rem] w-[18rem]  cursor-pointer rounded-lg bg-gradient-to-r from-[#FDE68A] via-[#FCA5A5] to-[#FECACA] p-1 text-white duration-100 hover:scale-105"
             target="_blank"
@@ -41,7 +41,7 @@ const Projects: NextComponentType = () => {
           >
             <div className="flex h-full w-full flex-col items-center justify-center rounded-lg bg-primary px-2 text-center font-medium">
               <p className="text-xl font-semibold"> Quick feature</p>
-              <p>A No-code tool  to wireframe ideas using plain HTML,Css,javascript built using next.js,Typescript</p>
+              <p>A No-code tool  to wireframe ideas using plain HTML,Css,javascript built using react.js,Typescript</p>
             </div>
           </a>
         </Link>
