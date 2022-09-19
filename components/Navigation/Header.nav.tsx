@@ -29,7 +29,7 @@ const Header: NextComponentType = () => {
         <TextLink text="Skills" url="#skills" />
         <TextLink text="Projects" url="#projects" />
         <TextLink text="Contact" url="#contact" />
-        <TextLink text="Resume" url="https://drive.google.com/file/d/1Bj95OP2lmMvWH9J59HJMsc36cmzTT/view" />
+        <TextLink text="Resume" url="https://drive.google.com/file/d/1yqsx8pZQMGZM5-DIP8OT3C3jhEYZPD2y/view?usp=sharing" />
 
       </p>
      
