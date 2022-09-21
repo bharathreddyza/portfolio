@@ -20,7 +20,7 @@ const Skills = () => {
 
         <p className="flex flex-row items-center border-b-[0.1px] border-gray-500 py-1 text-slate-300">
           <BsArrowRightShort size="30" />
-          <span className="text-white">Tailwind CSS and ChakraUi</span>
+          <span className="text-white">Tailwind CSS,MaterialUI and ChakraUi</span>
           &nbsp;as my CSS frameworks
         </p>
 
