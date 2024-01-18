@@ -37,7 +37,7 @@ const Header: NextComponentType = () => {
      
       
 
-      <Link href="https://github.com/bharathreddyza" passHref>
+      {/* <Link href="https://github.com/bharathreddyza" passHref>
         <a
           className="float-right mr-2 rounded-lg bg-zinc-800 p-2 text-2xl text-white ring-zinc-300 transition-all duration-150 hover:ring-2 sm:float-none sm:mr-0"
           target="_blank"
@@ -46,7 +46,7 @@ const Header: NextComponentType = () => {
         >
           <VscGithubAlt />
         </a>
-      </Link>
+      </Link> */}
     </header>
   );
 };
