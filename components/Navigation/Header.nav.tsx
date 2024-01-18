@@ -26,10 +26,12 @@ const Header: NextComponentType = () => {
     >
       <p className="hidden sm:flex sm:flex-row sm:gap-x-4">
         <TextLink text="Home" url="#" />
-        <TextLink text="Skills" url="#skills" />
-        <TextLink text="Projects" url="#projects" />
+        {/* <TextLink text="Skills" url="#skills" /> */}
+        {/* <TextLink text="Projects" url="#projects" /> */}
         <TextLink text="Contact" url="#contact" />
-        <TextLink text="Resume" url="https://drive.google.com/file/d/16crrXcz5jgyxVF1mPFhMYmXPdQ_3Is7G/view?usp=sharing" />
+        <TextLink text="Blog" url="https://substack.com/@bharathza" />
+
+        {/* <TextLink text="Resume" url="https://drive.google.com/file/d/16crrXcz5jgyxVF1mPFhMYmXPdQ_3Is7G/view?usp=sharing" /> */}
 
       </p>
      

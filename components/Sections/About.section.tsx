@@ -11,24 +11,24 @@ const About: NextComponentType = () => {
       <div>
         <p className="text-3xl font-bold text-white">bharath</p>
         <p className="mt-1 text-lg text-gray-300">
-          Fullstack javascript Developer
+          hey, welcome to my internet home
         </p>
 
         <p className="mt-4 text-gray-400">
-          i like Building  apps that scale, proficient in javascript <br /> 
+          i am a software engineer currently building <a href="https://www.foklore.com" >foklore.com</a> <br /> 
            this site is under construction  🛠️
         </p>
-        <Link  href="https://drive.google.com/file/d/16crrXcz5jgyxVF1mPFhMYmXPdQ_3Is7G/view?usp=sharing"> 
-       <p className="text-xl mt-4 text-gray-200 underline hover:cursor-pointer">Resume</p></Link>
+        {/* <Link  href="https://drive.google.com/file/d/16crrXcz5jgyxVF1mPFhMYmXPdQ_3Is7G/view?usp=sharing"> 
+       <p className="text-xl mt-4 text-gray-200 underline hover:cursor-pointer">Resume</p></Link> */}
  
       </div>
 
       <div className="hidden custom:block">
         <Image
-          src="/assests/unnamed.jpeg"
+          src="/assests/bharath.jpg"
           width="112"
           height="112"
-          className="rounded-full"
+          className="rounded-md"
           alt="avatar"
         />
       </div>

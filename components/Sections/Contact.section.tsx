@@ -21,9 +21,9 @@ const Contact: NextComponentType = () => {
           icon={<AiOutlineTwitter />}
           url="https://twitter.com/bharathza"
         />
-<Icon icon={<AiFillLinkedin />} url="https://www.linkedin.com/in/bharathreddy2/" />
+{/* <Icon icon={<AiFillLinkedin />} url="https://www.linkedin.com/in/bharathreddy2/" /> */}
 
-<Icon icon={<MdEmail />} url="mailto:bharathreddyza@gmail.com" />
+<Icon icon={<MdEmail />} url="mailto:bharath@foklore.com" />
 
       </div>
     </div>

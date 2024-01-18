@@ -39,13 +39,13 @@ function MyApp({ Component, pageProps }: AppProps) {
           url: "https://www.bharath.live/",
           title: "bharath | Fullstack Developer",
           description:
-            "Hey! I'm Bharath, A fullstack javascript  Developer",
+            "Hey! I'm Bharath,",
           images: [
             {
               url: "",
               width: 800,
               height: 420,
-              alt: "bharath | Fullstack Developer",
+              alt: "bharath | software engineer",
             },
           ],
         }}
@@ -63,7 +63,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         ]}
       />
       <Head>
-        <link rel="icon" type="image/png" href="/assests/unnamed.jpeg" />
+        <link rel="icon" type="image/png" href="/assests/bharath.jpg" />
       </Head>
       <Component {...pageProps} />
     </>
